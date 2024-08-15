@@ -1,7 +1,7 @@
 <?php
 
 // Define the API endpoint
-$api_url = 'https://comi1dreampress.stage.site/wp-json/wp/v2/posts?categories=183';
+$api_url = 'https://https://comi1.dream.press/wp-json/wp/v2/posts?categories=183';
 
 // Initialize cURL
 $curl = curl_init();
@@ -12,9 +12,9 @@ curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($curl, CURLOPT_HTTPGET, true);
 
 // Add authentication header (Basic Auth)
-$username = 'staging_kx7bw2';
-$password = 'q8pNzMKdVEcH';
-curl_setopt($curl, CURLOPT_USERPWD, "$username:$password");
+// $username = 'staging_kx7bw2';
+// $password = 'q8pNzMKdVEcH';
+// curl_setopt($curl, CURLOPT_USERPWD, "$username:$password");
 
 // Execute the request and store the response
 $response = curl_exec($curl);
