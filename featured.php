@@ -1,7 +1,7 @@
 <?php
 
 // Define the API endpoint
-$api_url = 'https://https://comi1.dream.press/wp-json/wp/v2/posts?categories=183';
+$api_url = 'https://comi1.dream.press/wp-json/wp/v2/posts?categories=183';
 
 // Initialize cURL
 $curl = curl_init();
