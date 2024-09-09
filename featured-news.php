@@ -42,15 +42,11 @@ if ($response === false) {
                     <!-- <div style="position: relative;width:960px;height:425px;"> -->
                     <div style="position: relative;">
                         <img class="news-img" style="top: 0;" src="<?php echo $post['jetpack_featured_media_url']; ?>"
-                            alt="News Image" />
+                            alt="<?php echo $post['title']['rendered']; ?>" />
                         <div class="news-copy-wrap" style="top: 255px !important;">
                             <div class="news-copy">
-                                <h3 style="text-decoration:none !important; top:-50px;"><?php echo $post['title']['rendered']; ?>
+                                <h3 style="text-decoration:none !important; top:-50px;font-size: 38px !important;"><?php echo $post['title']['rendered']; ?>
                                 </h3>
-                            </div>
-                            <div>
-                                <a href="<?php echo $post['link']; ?>" class="more-link"
-                                    style="margin-top:65px;margin-left:20px">Read more</a>
                             </div>
                         </div>
                         <div class="news-shadow"></div>

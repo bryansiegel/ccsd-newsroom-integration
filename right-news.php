@@ -36,7 +36,7 @@ if ($response === false) {
             <div id="news_story_3">
                 <a href="<?php echo $post['link']; ?>">
                     <div class="story-img">
-                        <img src="<?php echo $post['jetpack_featured_media_url']; ?>" alt="News Image" height="169" width="310">
+                        <img src="<?php echo $post['jetpack_featured_media_url']; ?>" alt="<?php echo $post['title']['rendered']; ?>" height="169" width="310">
                     </div>
                     <div class="story-headline">
                         <?php echo $post['title']['rendered']; ?>
