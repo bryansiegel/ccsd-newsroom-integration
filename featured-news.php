@@ -27,14 +27,15 @@ if ($response === false) {
     $posts = json_decode($response, true);
 
     // Check if decoding was successful
-    if (json_last_error() === JSON_ERROR_NONE) {
+    // if (json_last_error() === JSON_ERROR_NONE) {
         // Process the posts
 
-        // var_dump($posts); ?>
-        <div id="news_box">
-
+        
+        ?>
+    
+<div id="news_box">
             <?php
-
+            if($posts && is_array($posts)) {
             foreach ($posts as $post) { ?>
 
                 <a href="<?php echo $post['link']; ?>" id="news_item_1" data-item="1" class="current news-item-wrap clearfix"
@@ -59,9 +60,26 @@ if ($response === false) {
             //loop only once
             break;
             }
-    } else {
-        echo 'JSON Decode Error: ' . json_last_error_msg();
-    }
+    } else { ?>
+        
+        <a href="" id="news_item_1" data-item="1" class="current news-item-wrap clearfix"
+                    style="top: 0; opacity: 1;text-decoration:none !important;">
+                    <!-- <div style="position: relative;width:960px;height:425px;"> -->
+                    <div style="position: relative;">
+                        <img class="news-img" style="top: 0;" src="https://newsroom.ccsd.net/wp-content/uploads//CCSD-Sahara-Exterior_Main-1-1.jpeg"
+                            alt="" />
+                        <div class="news-copy-wrap" style="top: 320px !important;">
+                            <div class="news-copy">
+                                <h3 style="text-decoration:none !important; top:-50px;font-size: 38px !important;">
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="news-shadow"></div>
+                    </div>
+                </a>
+            </div>
+            </div>
+   <?php }
     // Close the cURL session
     curl_close($curl);
 }

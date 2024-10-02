@@ -27,11 +27,12 @@ if ($response === false) {
     $posts = json_decode($response, true);
 
     // Check if decoding was successful
-    if (json_last_error() === JSON_ERROR_NONE) {
+    // if (json_last_error() === JSON_ERROR_NONE) {
         // Process the posts
 
         // var_dump($posts);
 
+        if($posts && is_array($posts)) {
         foreach ($posts as $post) { ?>
 
             <div id="news_story_2">
@@ -45,13 +46,23 @@ if ($response === false) {
                 </a>
             </div>
 
-            <?php
-            //loop only once
-            break;
+
+        <?php
+        //loop only once
+        break;
         }
-    } else {
-        echo 'JSON Decode Error: ' . json_last_error_msg();
-    }
+    } else { ?>
+        <div id="news_story_2">
+                <!-- <a href=""> -->
+                    <div class="story-img">
+                        <img src="https://newsroom.ccsd.net/wp-content/uploads//CCSD-Sahara-Exterior_Main-1-1.jpeg" alt="" height="169" width="310">
+                    </div>
+                    <!-- <div class="story-headline"> -->
+                        
+                    <!-- </div> -->
+                <!-- </a> -->
+            </div>
+    <?php }
 
     // Close the cURL session
     curl_close($curl);
