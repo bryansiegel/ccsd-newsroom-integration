@@ -2,7 +2,6 @@
 
 // Define the API endpoint
 // $api_url = 'https://comi1.dream.press/wp-json/wp/v2/posts?categories=184';
-$api_url = 'https://newsroom.ccsd.net/wp-json/wp/v2/posts?categories=186';
 
 // Initialize cURL
 $curl = curl_init();

@@ -4,7 +4,6 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 //API endpoint
 // $api_url = 'https://comi1.dream.press/wp-json/wp/v2/posts?categories=183';
-$api_url = 'https://newsroom.ccsd.net/wp-json/wp/v2/posts?categories=183';
 
 // Initialize cURL
 $curl = curl_init();
