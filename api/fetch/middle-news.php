@@ -1,7 +1,10 @@
 <?php
 
+//only run this script if it's a cron job.
+if(empty($_SERVER["REMOTE_ADDR"])) {
 // Define the API endpoint
 // $api_url = 'https://comi1.dream.press/wp-json/wp/v2/posts?categories=184';
+$api_url = 'https://newsroom.ccsd.net/wp-json/wp/v2/posts?categories=185';
 
 // Initialize cURL
 $curl = curl_init();
@@ -22,12 +25,12 @@ $response = curl_exec($curl);
 // Check if the request was successful
 if ($response === false) {
         //email if the api response isn't working
-    //     $headers =
-    //     "From: wordpress-support-user@nv.ccsd.net" . "\r\n" .
-    //     "Reply-To: wordpress-support-user@nv.ccsd.net" . "\r\n" .
-    //     "X-Mailer: PHP/" . phpversion();
+        $headers =
+        "From: wordpress-support-user@nv.ccsd.net" . "\r\n" .
+        "Reply-To: wordpress-support-user@nv.ccsd.net" . "\r\n" .
+        "X-Mailer: PHP/" . phpversion();
 
-    // mail("wordpress-support-user@nv.ccsd.net ", "Middle News API From Newsroom is broken", "The Newsroom API is broken for Middle News", $headers);
+    mail("wordpress-support-user@nv.ccsd.net ", "Middle News API From Newsroom is broken", "The Newsroom API is broken for Middle News", $headers);
     //echo 'cURL Error: ' . curl_error($curl);
 } else {
     // Decode the JSON response into a PHP array
@@ -57,11 +60,10 @@ if (file_put_contents($file, $jsonData)) {
     echo "Error writing to $file";
 }
 
-//get from json and iterate
-$jsonFile = file_get_contents('/www/apache/htdocs/ccsd/_includes/api/json/middle-news.json');
-
-$featured = json_decode($jsonFile, true);
 
 // Close the cURL session
 curl_close($curl);
+} else {
+    //
+}
 ?>

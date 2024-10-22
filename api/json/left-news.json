@@ -1,30 +1,30 @@
 [
     {
-        "id": 48638,
-        "date": "2024-10-04T13:59:28",
-        "date_gmt": "2024-10-04T21:59:28",
+        "id": 49524,
+        "date": "2024-10-17T11:54:23",
+        "date_gmt": "2024-10-17T19:54:23",
         "guid": {
-            "rendered": "https:\/\/newsroom.ccsd.net\/?p=48638"
+            "rendered": "https:\/\/newsroom.ccsd.net\/?p=49524"
         },
-        "modified": "2024-10-09T06:55:46",
-        "modified_gmt": "2024-10-09T14:55:46",
-        "slug": "ccsd-celebrates-fire-prevention-week-oct-6-12",
+        "modified": "2024-10-22T09:47:46",
+        "modified_gmt": "2024-10-22T17:47:46",
+        "slug": "ccsd-administrator-named-2024-state-principal-of-the-year",
         "status": "publish",
         "type": "post",
-        "link": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/",
+        "link": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/",
         "title": {
-            "rendered": "CCSD Celebrates Fire Prevention Week, Oct. 6-12"
+            "rendered": "CCSD Administrator Named 2024 State Principal of the Year"
         },
         "content": {
-            "rendered": "<p><span style=\"font-weight: 400;\">The Clark County School District (CCSD) recognizes October 6-12, 2024 as Fire Prevention Week. The week emphasizes the importance of educating children, adults, and teachers on how to prevent fires and stay safe in case of a fire.\u00a0<\/span><\/p>\n<p><span style=\"font-weight: 400;\">CCSD students can get a headstart on preparing for a career in firefighting through the Fire Science program offered at Bonanza High School and Basic Academy of International Studies. The program builds on the principles of fire protection, chemistry, and prevention techniques. Students also have the opportunity to work with professional equipment such as hoses and ladders. The program is run in conjunction with the College of Southern Nevada, allowing students to earn both high school and college credits simultaneously. Learn more about what the students of the Fire Science program are learning <\/span><a href=\"https:\/\/youtu.be\/BlNO1QsspvU?feature=shared\"><span style=\"font-weight: 400;\">here<\/span><\/a><span style=\"font-weight: 400;\">.\u00a0<\/span><\/p>\n<p><span style=\"font-weight: 400;\">The National Fire Protection Association advocates for the elimination of death, injury, property, and economic loss due to fire, electrical, and related hazards. More information and resources can be found <\/span><a href=\"https:\/\/www.nfpa.org\/Education-and-Research\/Fire-Protection-Systems\"><span style=\"font-weight: 400;\">here<\/span><\/a><span style=\"font-weight: 400;\">.\u00a0<\/span><\/p>\n",
+            "rendered": "<p><span style=\"font-weight: 400;\">The Clark County School District (CCSD) proudly announces that the National Association of Secondary School Principals (NASSP) named Mojave High School Principal Gregory Cole 2024 Nevada State Principal of the Year.<\/span><\/p>\n<p><span style=\"font-weight: 400;\">\u201cPrincipal Cole is a tremendous school leader and an inspiration to the students at Mojave High School,\u201d said Interim Superintendent Brenda Larsen-Mitchell. \u201cHis leadership among his peers and the positive and inclusive learning environment he fosters makes him deserving of the State Principal of the Year award.\u201d<\/span><\/p>\n<p><span style=\"font-weight: 400;\">Cole began his education career at CCSD in 2002 after six years teaching in Iowa. He has served as Principal at Mojave High School since 2017, where he strives to build strong social-emotional learning programs that focus on respect for students and staff. Cole was recognized for providing high-quality learning opportunities for students and making exemplary contributions in his role as principal.<\/span><\/p>\n<p><span style=\"font-weight: 400;\">NASSP honors one middle school or high school principal from each state annually.\u00a0<\/span><\/p>\n<p><span style=\"font-weight: 400;\">Cole is now a finalist for the NAASP\u2019s National Principal of the Year which will be announced at the State Principals of the Year event in Washington, D.C. in October.\u00a0<\/span><\/p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>The Clark County School District (CCSD) recognizes October 6-12, 2024 as Fire Prevention Week. The week emphasizes the importance of educating children, adults, and teachers on how to prevent fires and stay safe in case of a fire.\u00a0 CCSD students can get a headstart on preparing for a career in firefighting through the Fire Science<\/p>\n",
+            "rendered": "<p>The Clark County School District (CCSD) proudly announces that the National Association of Secondary School Principals (NASSP) named Mojave High School Principal Gregory Cole 2024 Nevada State Principal of the Year. \u201cPrincipal Cole is a tremendous school leader and an inspiration to the students at Mojave High School,\u201d said Interim Superintendent Brenda Larsen-Mitchell. \u201cHis leadership<\/p>\n",
             "protected": false
         },
         "author": 5,
-        "featured_media": 48639,
+        "featured_media": 49528,
         "comment_status": "closed",
         "ping_status": "open",
         "sticky": false,
@@ -32,28 +32,32 @@
         "format": "standard",
         "meta": {
             "inline_featured_image": false,
-            "_jetpack_memberships_contains_paid_content": false,
             "footnotes": ""
         },
         "categories": [
-            175,
-            184
+            2,
+            3,
+            93,
+            184,
+            17
         ],
         "tags": [],
         "class_list": {
-            "0": "post-48638",
+            "0": "post-49524",
             "1": "post",
             "2": "type-post",
             "3": "status-publish",
             "4": "format-standard",
             "5": "has-post-thumbnail",
-            "7": "category-announcements",
-            "8": "category-left-ccsd"
+            "7": "category-achievements",
+            "8": "category-clark-county-school-district",
+            "9": "category-educators",
+            "10": "category-left-ccsd",
+            "11": "category-news-release"
         },
-        "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v23.6 (Yoast SEO v23.6) - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>CCSD Celebrates Fire Prevention Week, Oct. 6-12 - CCSD Newsroom<\/title>\n<meta name=\"description\" content=\"Learn about Fire Prevention Week and how CCSD students can prepare for firefighting careers through the Fire Science program.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"CCSD Celebrates Fire Prevention Week, Oct. 6-12\" \/>\n<meta property=\"og:description\" content=\"Learn about Fire Prevention Week and how CCSD students can prepare for firefighting careers through the Fire Science program.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\" \/>\n<meta property=\"og:site_name\" content=\"CCSD Newsroom\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/ClarkCountySchoolDistrict\/\" \/>\n<meta property=\"article:published_time\" content=\"2024-10-04T21:59:28+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2024-10-09T14:55:46+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png\" \/>\n\t<meta property=\"og:image:width\" content=\"720\" \/>\n\t<meta property=\"og:image:height\" content=\"385\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"author\" content=\"Illiana Banuelos\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:creator\" content=\"@ClarkCountySch\" \/>\n<meta name=\"twitter:site\" content=\"@ClarkCountySch\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#article\",\"isPartOf\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\"},\"author\":{\"name\":\"Illiana Banuelos\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/person\/111b5f2e2e350d72b779d1924989ee01\"},\"headline\":\"CCSD Celebrates Fire Prevention Week, Oct. 6-12\",\"datePublished\":\"2024-10-04T21:59:28+00:00\",\"dateModified\":\"2024-10-09T14:55:46+00:00\",\"mainEntityOfPage\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\"},\"wordCount\":169,\"publisher\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#organization\"},\"image\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png\",\"articleSection\":[\"Announcements\",\"Left CCSD\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\",\"url\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\",\"name\":\"CCSD Celebrates Fire Prevention Week, Oct. 6-12 - CCSD Newsroom\",\"isPartOf\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png\",\"datePublished\":\"2024-10-04T21:59:28+00:00\",\"dateModified\":\"2024-10-09T14:55:46+00:00\",\"description\":\"Learn about Fire Prevention Week and how CCSD students can prepare for firefighting careers through the Fire Science program.\",\"breadcrumb\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage\",\"url\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png\",\"contentUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png\",\"width\":720,\"height\":385,\"caption\":\"Students of Fire Science program\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/newsroom.ccsd.net\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CCSD Celebrates Fire Prevention Week, Oct. 6-12\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#website\",\"url\":\"https:\/\/newsroom.ccsd.net\/\",\"name\":\"CCSD Newsroom\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/newsroom.ccsd.net\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#organization\",\"name\":\"CCSD Newsroom\",\"url\":\"https:\/\/newsroom.ccsd.net\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/06\/employee-np.jpg\",\"contentUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/06\/employee-np.jpg\",\"width\":200,\"height\":225,\"caption\":\"CCSD Newsroom\"},\"image\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/ClarkCountySchoolDistrict\/\",\"https:\/\/x.com\/ClarkCountySch\",\"https:\/\/www.linkedin.com\/company\/clark-county-school-district\",\"https:\/\/www.instagram.com\/clarkcountysch\/\",\"https:\/\/www.youtube.com\/channel\/UCb8dUIsat7U7lTjXYPFs_Ww\"]},{\"@type\":\"Person\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/person\/111b5f2e2e350d72b779d1924989ee01\",\"name\":\"Illiana Banuelos\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/d98697688c43eca7b18c7eb1996d0f3e?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/d98697688c43eca7b18c7eb1996d0f3e?s=96&d=mm&r=g\",\"caption\":\"Illiana Banuelos\"},\"url\":\"https:\/\/newsroom.ccsd.net\/author\/mr_author4\/\"}]}<\/script>\n<!-- \/ Yoast SEO Premium plugin. -->",
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v23.7 (Yoast SEO v23.7) - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>CCSD Administrator Named 2024 State Principal of the Year - CCSD Newsroom<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"CCSD Administrator Named 2024 State Principal of the Year\" \/>\n<meta property=\"og:description\" content=\"The Clark County School District (CCSD) proudly announces that the National Association of Secondary School Principals (NASSP) named Mojave High School Principal Gregory Cole 2024 Nevada State Principal of the Year. \u201cPrincipal Cole is a tremendous school leader and an inspiration to the students at Mojave High School,\u201d said Interim Superintendent Brenda Larsen-Mitchell. \u201cHis leadership\" \/>\n<meta property=\"og:url\" content=\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\" \/>\n<meta property=\"og:site_name\" content=\"CCSD Newsroom\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/ClarkCountySchoolDistrict\/\" \/>\n<meta property=\"article:published_time\" content=\"2024-10-17T19:54:23+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2024-10-22T17:47:46+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1440\" \/>\n\t<meta property=\"og:image:height\" content=\"770\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Illiana Banuelos\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:creator\" content=\"@ClarkCountySch\" \/>\n<meta name=\"twitter:site\" content=\"@ClarkCountySch\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#article\",\"isPartOf\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\"},\"author\":{\"name\":\"Illiana Banuelos\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/person\/111b5f2e2e350d72b779d1924989ee01\"},\"headline\":\"CCSD Administrator Named 2024 State Principal of the Year\",\"datePublished\":\"2024-10-17T19:54:23+00:00\",\"dateModified\":\"2024-10-22T17:47:46+00:00\",\"mainEntityOfPage\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\"},\"wordCount\":190,\"publisher\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#organization\"},\"image\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg\",\"articleSection\":[\"Achievements\",\"Clark County School District\",\"Educators\",\"Left CCSD\",\"News Release\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\",\"url\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\",\"name\":\"CCSD Administrator Named 2024 State Principal of the Year - CCSD Newsroom\",\"isPartOf\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg\",\"datePublished\":\"2024-10-17T19:54:23+00:00\",\"dateModified\":\"2024-10-22T17:47:46+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage\",\"url\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg\",\"contentUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg\",\"width\":1440,\"height\":770,\"caption\":\"2024 Nevada Principal of the Year Greg Cole\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/newsroom.ccsd.net\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"CCSD Administrator Named 2024 State Principal of the Year\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#website\",\"url\":\"https:\/\/newsroom.ccsd.net\/\",\"name\":\"CCSD Newsroom\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/newsroom.ccsd.net\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#organization\",\"name\":\"CCSD Newsroom\",\"url\":\"https:\/\/newsroom.ccsd.net\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/06\/employee-np.jpg\",\"contentUrl\":\"https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/06\/employee-np.jpg\",\"width\":200,\"height\":225,\"caption\":\"CCSD Newsroom\"},\"image\":{\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/ClarkCountySchoolDistrict\/\",\"https:\/\/x.com\/ClarkCountySch\",\"https:\/\/www.linkedin.com\/company\/clark-county-school-district\",\"https:\/\/www.instagram.com\/clarkcountysch\/\",\"https:\/\/www.youtube.com\/channel\/UCb8dUIsat7U7lTjXYPFs_Ww\"]},{\"@type\":\"Person\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/person\/111b5f2e2e350d72b779d1924989ee01\",\"name\":\"Illiana Banuelos\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/newsroom.ccsd.net\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/d98697688c43eca7b18c7eb1996d0f3e?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/d98697688c43eca7b18c7eb1996d0f3e?s=96&d=mm&r=g\",\"caption\":\"Illiana Banuelos\"},\"url\":\"https:\/\/newsroom.ccsd.net\/author\/mr_author4\/\"}]}<\/script>\n<!-- \/ Yoast SEO Premium plugin. -->",
         "yoast_head_json": {
-            "title": "CCSD Celebrates Fire Prevention Week, Oct. 6-12 - CCSD Newsroom",
-            "description": "Learn about Fire Prevention Week and how CCSD students can prepare for firefighting careers through the Fire Science program.",
+            "title": "CCSD Administrator Named 2024 State Principal of the Year - CCSD Newsroom",
             "robots": {
                 "index": "index",
                 "follow": "follow",
@@ -61,22 +65,22 @@
                 "max-image-preview": "max-image-preview:large",
                 "max-video-preview": "max-video-preview:-1"
             },
-            "canonical": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/",
+            "canonical": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/",
             "og_locale": "en_US",
             "og_type": "article",
-            "og_title": "CCSD Celebrates Fire Prevention Week, Oct. 6-12",
-            "og_description": "Learn about Fire Prevention Week and how CCSD students can prepare for firefighting careers through the Fire Science program.",
-            "og_url": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/",
+            "og_title": "CCSD Administrator Named 2024 State Principal of the Year",
+            "og_description": "The Clark County School District (CCSD) proudly announces that the National Association of Secondary School Principals (NASSP) named Mojave High School Principal Gregory Cole 2024 Nevada State Principal of the Year. \u201cPrincipal Cole is a tremendous school leader and an inspiration to the students at Mojave High School,\u201d said Interim Superintendent Brenda Larsen-Mitchell. \u201cHis leadership",
+            "og_url": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/",
             "og_site_name": "CCSD Newsroom",
             "article_publisher": "https:\/\/www.facebook.com\/ClarkCountySchoolDistrict\/",
-            "article_published_time": "2024-10-04T21:59:28+00:00",
-            "article_modified_time": "2024-10-09T14:55:46+00:00",
+            "article_published_time": "2024-10-17T19:54:23+00:00",
+            "article_modified_time": "2024-10-22T17:47:46+00:00",
             "og_image": [
                 {
-                    "width": 720,
-                    "height": 385,
-                    "url": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png",
-                    "type": "image\/png"
+                    "width": 1440,
+                    "height": 770,
+                    "url": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg",
+                    "type": "image\/jpeg"
                 }
             ],
             "author": "Illiana Banuelos",
@@ -88,61 +92,63 @@
                 "@graph": [
                     {
                         "@type": "Article",
-                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#article",
+                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#article",
                         "isPartOf": {
-                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/"
+                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/"
                         },
                         "author": {
                             "name": "Illiana Banuelos",
                             "@id": "https:\/\/newsroom.ccsd.net\/#\/schema\/person\/111b5f2e2e350d72b779d1924989ee01"
                         },
-                        "headline": "CCSD Celebrates Fire Prevention Week, Oct. 6-12",
-                        "datePublished": "2024-10-04T21:59:28+00:00",
-                        "dateModified": "2024-10-09T14:55:46+00:00",
+                        "headline": "CCSD Administrator Named 2024 State Principal of the Year",
+                        "datePublished": "2024-10-17T19:54:23+00:00",
+                        "dateModified": "2024-10-22T17:47:46+00:00",
                         "mainEntityOfPage": {
-                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/"
+                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/"
                         },
-                        "wordCount": 169,
+                        "wordCount": 190,
                         "publisher": {
                             "@id": "https:\/\/newsroom.ccsd.net\/#organization"
                         },
                         "image": {
-                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage"
+                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage"
                         },
-                        "thumbnailUrl": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png",
+                        "thumbnailUrl": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg",
                         "articleSection": [
-                            "Announcements",
-                            "Left CCSD"
+                            "Achievements",
+                            "Clark County School District",
+                            "Educators",
+                            "Left CCSD",
+                            "News Release"
                         ],
                         "inLanguage": "en-US"
                     },
                     {
                         "@type": "WebPage",
-                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/",
-                        "url": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/",
-                        "name": "CCSD Celebrates Fire Prevention Week, Oct. 6-12 - CCSD Newsroom",
+                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/",
+                        "url": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/",
+                        "name": "CCSD Administrator Named 2024 State Principal of the Year - CCSD Newsroom",
                         "isPartOf": {
                             "@id": "https:\/\/newsroom.ccsd.net\/#website"
                         },
                         "primaryImageOfPage": {
-                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage"
+                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage"
                         },
                         "image": {
-                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage"
+                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage"
                         },
-                        "thumbnailUrl": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png",
-                        "datePublished": "2024-10-04T21:59:28+00:00",
-                        "dateModified": "2024-10-09T14:55:46+00:00",
-                        "description": "Learn about Fire Prevention Week and how CCSD students can prepare for firefighting careers through the Fire Science program.",
+                        "thumbnailUrl": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg",
+                        "datePublished": "2024-10-17T19:54:23+00:00",
+                        "dateModified": "2024-10-22T17:47:46+00:00",
                         "breadcrumb": {
-                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#breadcrumb"
+                            "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#breadcrumb"
                         },
                         "inLanguage": "en-US",
                         "potentialAction": [
                             {
                                 "@type": "ReadAction",
                                 "target": [
-                                    "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/"
+                                    "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/"
                                 ]
                             }
                         ]
@@ -150,16 +156,16 @@
                     {
                         "@type": "ImageObject",
                         "inLanguage": "en-US",
-                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#primaryimage",
-                        "url": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png",
-                        "contentUrl": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png",
-                        "width": 720,
-                        "height": 385,
-                        "caption": "Students of Fire Science program"
+                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#primaryimage",
+                        "url": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg",
+                        "contentUrl": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg",
+                        "width": 1440,
+                        "height": 770,
+                        "caption": "2024 Nevada Principal of the Year Greg Cole"
                     },
                     {
                         "@type": "BreadcrumbList",
-                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-celebrates-fire-prevention-week-oct-6-12\/#breadcrumb",
+                        "@id": "https:\/\/newsroom.ccsd.net\/ccsd-administrator-named-2024-state-principal-of-the-year\/#breadcrumb",
                         "itemListElement": [
                             {
                                 "@type": "ListItem",
@@ -170,7 +176,7 @@
                             {
                                 "@type": "ListItem",
                                 "position": 2,
-                                "name": "CCSD Celebrates Fire Prevention Week, Oct. 6-12"
+                                "name": "CCSD Administrator Named 2024 State Principal of the Year"
                             }
                         ]
                     },
@@ -242,12 +248,11 @@
                 ]
             }
         },
-        "jetpack_sharing_enabled": true,
-        "jetpack_featured_media_url": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/Fire.png",
+        "jetpack_featured_media_url": "https:\/\/newsroom.ccsd.net\/wp-content\/uploads\/2024\/10\/2024-Nevada-Principal-of-the-Year-3.jpg",
         "_links": {
             "self": [
                 {
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/posts\/48638"
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/posts\/49524"
                 }
             ],
             "collection": [
@@ -269,42 +274,42 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/comments?post=48638"
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/comments?post=49524"
                 }
             ],
             "version-history": [
                 {
-                    "count": 3,
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/posts\/48638\/revisions"
+                    "count": 1,
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/posts\/49524\/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 48658,
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/posts\/48638\/revisions\/48658"
+                    "id": 49526,
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/posts\/49524\/revisions\/49526"
                 }
             ],
             "wp:featuredmedia": [
                 {
                     "embeddable": true,
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/media\/48639"
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/media\/49528"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/media?parent=48638"
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/media?parent=49524"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/categories?post=48638"
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/categories?post=49524"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/tags?post=48638"
+                    "href": "https:\/\/newsroom.ccsd.net\/wp-json\/wp\/v2\/tags?post=49524"
                 }
             ],
             "curies": [
